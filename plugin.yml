@@ -1,0 +1,29 @@
+name: SurvivalGames
+main: net.vduuude.SurvivalGames.SurvivalGames
+author: vduuude
+version: 1.0
+commands:
+  vote:
+    description: Votes
+    aliases: [v, vo]
+  Addarena:
+    description: Adds arena
+  Addchest:
+    description: Adds chest
+  Addspawn:
+    description: Adds spawn
+  Setlobbyspawn:
+    description: Sets Lobby Spawn
+  Addspectatorspawn:
+    description: Adds spectator spawn
+  Edit:
+    description: Edit target arena
+  Spectate:
+    description: Spectate target player
+    aliases: [spec, s]
+  Adddmcentre:
+    description: Adds Deathmatch Center Location
+  Stats:
+    description: Displays target player's stats
+  Ping:
+    description: Tells you your ping
